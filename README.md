@@ -1,2 +1,2 @@
 # FullStackOpen
-https://fullstackopen.com/
+https://fullstackopen.com/en
